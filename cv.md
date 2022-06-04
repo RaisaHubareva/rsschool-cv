@@ -9,7 +9,7 @@ Email:
 
 ## About me
 
-I'm 48 years old. I decided to change my life. I am currently working as engineer in a  factory. I hope my professional experience will be useful in IT.
+I decided to change my life. I am currently working as engineer in a  factory. I hope my professional experience will be useful in IT.
 
 I haven't programming skills yet. Hopefully I will get an experience at the end of the course.
 
@@ -52,4 +52,3 @@ faculty of Biology
 
 Russian - Native
 English level A2 (I try to learn English in every possible way)
-
