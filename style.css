@@ -1,21 +1,62 @@
- .my-foto{
- margin-left:40%;
+.menu{
+  font-size: 20px;
+  border-color: red;
+  border-right-style:solid;
+  border-top-style:solid ;
+  border-left-style:solid;
+  font-family: sans-serif;
+  display: flex; 
+  justify-content: space-around;
+  background-color: aqua;
+  text-align: center;
 }
-.title{
-  margin-left: 40%;
-  font-size: 35px;
+.my-foto{
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-around;
+  background-color: azure;
+}
+.title{ 
+  text-align: center;
+  font-family: sans-serif;
+  background-color: azure; 
+  font-size: larger;  
 }
 .contact{
+  font-size: 20px;
+  border-style:solid;
+  border-color: red;
   text-align: center;
+  font-family: sans-serif;
+  display: flex; 
+  align-items: center;
+  justify-content: space-around;
+  background-color: azure;
 }
-.about-me{
-  font-size: 24px; 
+h2{
   text-align: center;
-  background-color:yellow;
+  font-family: sans-serif;
+  display: flex; 
+  align-items: center;
+  justify-content: space-around;
+  background-color: aqua;
 }
-.phone-number{
-  background-color: yellowgreen;
+.footer-box{
+  font-size: 20px;
+  border-color: red;
+  border-right-style:solid;
+  border-bottom-style:solid ;
+  border-left-style:solid;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;  
+  background-color: aqua;
 }
-.email{
-  background-color: yellowgreen;
+main{
+  font-size: 20px;
+  border-color: red;
+  border-right-style:solid;
+  border-bottom-style:solid ;
+  border-left-style:solid;
+  text-align: center;
 }

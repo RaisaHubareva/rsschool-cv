@@ -1,0 +1,96 @@
+[33mcommit bfce59650e9724f18537c2e7ffd31d570cdd13c1[m[33m ([m[1;36mHEAD -> [m[1;32mrsschool-cv-html[m[33m, [m[1;31morigin/rsschool-cv-html[m[33m)[m
+Merge: 68ec91e a6bbaaa
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Wed Jun 8 13:46:03 2022 +0300
+
+    fix: rename classes
+
+[33mcommit 68ec91e7c02c3883445253c61eb03f680da5f75e[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Wed Jun 8 12:14:43 2022 +0300
+
+    fix: modide file html
+
+[33mcommit 9a636a28e48f3d61d8bcc343a835d978bc4cf82c[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 19:55:55 2022 +0300
+
+    fix: file html and css
+
+[33mcommit 9b411eae59d9374e8ab6265719646650d296d31e[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 19:15:33 2022 +0300
+
+    fix: file html and css
+
+[33mcommit 0ccda2807e72cc2c04652e1bdb3f5240e5eb6ddf[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 18:00:59 2022 +0300
+
+    fix: files html fns css
+
+[33mcommit f9ba8c2b21f0784f1c639fa7bd68b5170488e037[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 16:29:24 2022 +0300
+
+    feat: add styls for my-foto and title
+
+[33mcommit a6bbaaab4dd1660abd03d9bb6043e857ba6e4237[m[33m ([m[1;32mgh-pages[m[33m)[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 14:54:25 2022 +0300
+
+    fix: fixed path file css
+
+[33mcommit a53d7b7867223f95cd3f04b1b389f3f49556b001[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 14:05:39 2022 +0300
+
+    fixed: modified style.css
+
+[33mcommit 22147b352b496e09e697a0c12e25aeb29af48ac6[m
+Author: RaisaHubareva <ivan.af@mail.ru>
+Date:   Tue Jun 7 13:49:04 2022 +0300
+
+    feat:add file img/raya.JPD
+
+[33mcommit 1005e9c8a50cc803963f65daa750da6616c647db[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sun Jun 5 21:57:50 2022 +0300
+
+    feat: add:add index.html and style.css files
+
+[33mcommit 0ab7a99e16fd2e353ad833812b693a1c5203406f[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sun Jun 5 14:43:38 2022 +0300
+
+    feat:add HTML file
+
+[33mcommit 1ca6cae6f392130590d2b7f4dd80bbe424a4beff[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sat Jun 4 20:33:01 2022 +0300
+
+    fixet: modefiled cv.md
+
+[33mcommit b620538f341fff70f972789ef07b99a088d55135[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sat Jun 4 20:20:49 2022 +0300
+
+    feat:add text
+
+[33mcommit 695faed7b3863dec4c4c73e58c86144ba4cc6d0a[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sat Jun 4 20:09:06 2022 +0300
+
+    fieat:add cv.md
+
+[33mcommit 56ddbfc9c048d631cdd4231e1b4845ed2e779a2f[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sat Jun 4 19:58:53 2022 +0300
+
+    init:cv.md
+
+[33mcommit 0338880d80e49a35304fe6f7225545c013c8c95f[m[33m ([m[1;32mmain[m[33m)[m
+Author: lelek337 <80050352+lelek337@users.noreply.github.com>
+Date:   Sat Jun 4 19:54:38 2022 +0300
+
+    init cv
