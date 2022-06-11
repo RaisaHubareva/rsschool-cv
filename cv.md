@@ -18,6 +18,7 @@ I studied programming on my own.
 ## My skills
 
 I haven't programming skills yet.
+------
 
 ## Code Examples
 
@@ -42,6 +43,7 @@ function getMatrix(number) {
 }
 getMatrix(5);
 ```
+--------
 
 ## Education
 

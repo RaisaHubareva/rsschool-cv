@@ -1,44 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/style.css" />
-    <title>CV</title>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+     <title>CV</title>  
   </head>
   <body>
     <header>
-      <h1 class="title">RaisaHubareva</h1>
-      <div class="my-foto">
-        <img src="img/raya.JPG" width="220" height="240" />
+      <div>
+        <nav class="menu">
+          <div>
+           <p> <a href="#about-me">About me</a>
+            <a href="#my-skills">My skills</a>
+            <a href="#code-example">Code example</a>
+            <a href="#education">Education</a>
+            <a href="#languages">Languages</a></p>  
+          </div>
+        </nav>
       </div>
       <div class="contact">
-        <p class="phone-namber">Phone: + 375(29)6147603</p>
-        <p class="email">Email:ivan.af@mail.ru</p>
+        <ul>
+          <li>Phone: + 375(29)6147603</li>
+          <li>Email:ivan.af@mail.ru</li>
+          <li><a href="https://github.com/RaisaHubareva/rsschool-cv"  target="_blank">github Raisa Hubareva</a></li>
+        </ul>
       </div>
     </header>
-    <div class="about-me"
-    <h2>About me</h2>
-    <p>
-      I decided to change my life. I am currently working as engineer in a
-      factory. I hope my professional experience will be useful in IT. I haven't
-      programming skills yet. Hopefully I will get an experience at the end of
-      the course. I studied programming on my own.
-    </p>
-     </div>
-    <h2>My skills</h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>I haven't a lot programming skills yet.</li>
-    </ul>
-    <h2>Education</h2>
-    <p>FRANCISK SKORINA GOMEL STATE UNIVERSITY faculty of Biology</p>
-    <h2>Languages</h2>
-    <ul>
-      <li>Russian - Native</li>
-      <li>English level A2 (I try to learn English in every possible way)</li>
-    </ul>
+    <main >
+      <div class="title"><h1>RaisaHubareva</h1></div>
+        <div class="my-foto">
+          <img src="img/raya.JPG" width="220" height="240" alt="foto">
+        </div>
+          <div id="about-me"><h2>About me</h2> 
+            <p> 
+              I decided to change my life. I am currently working as engineer in a
+              factory. I hope my professional experience will be useful in IT. I haven't
+              programming skills yet. Hopefully I will get an experience at the end of
+              the course. I studied programming on my own.
+            </p>
+          </div>
+          <div id="my-skills"></div>
+            <h2>My skills</h2>
+              <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>I haven't a lot programming skills yet.</li>            
+              </ul>
+          <div id="code-example"></div>
+            <h2>Code example</h2>
+              <pre><code>
+                  function getMatrix(number) {
+              let i;
+              let j;
+              let rez = [];
+              for (i = 0; i &lt; number; i++) {
+                rez[i]=[]; for (j=0; j &lt; number; j++) { 
+                  if (i==j) { rez[i][j]=1;
+                } else {
+                rez[i][j]=0; 
+                } 
+              }
+              } console.log(rez); return rez[i[j]]; 
+              // good luck 
+              } 
+              getMatrix(5);
+            </code> </pre>
+             <div id="education"></div>
+              <h2>Education</h2>
+               <p>
+                FRANCISK SKORINA GOMEL STATE UNIVERSITY faculty of Biology
+              </p>
+            <div id="languages"></div>
+             <h2>Languages</h2>
+              <ul>
+                <li>Russian and Belorassian - Native</li>
+                <li>English level A2 </li>
+              </ul>
+    </main>
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-box">
+           <a href="https://rs.school" target="_blank">
+           <img src="https://rs.school/images/rs_school_js.svg" alt="rollingScopesImg" width="50" height="50">
+           </a>
+           <a href="https://github.com/RaisaHubareva/rsschool-cv"  target="_blank">github Raisa Hubareva
+           </a>
+           <p>09/06/2022</p>
+        </div>
+      </div>  
+    </footer>
   </body>
 </html>
