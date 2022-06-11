@@ -1,31 +1,66 @@
- .my-foto{
- margin-left: 500px;
+.menu{
+  font-size: 20px;
+  border-color: rebeccapurple;
+  border-right-style:solid;
+  border-top-style:solid ;
+  border-left-style:solid;
+  font-family: sans-serif;
+  display: flex; 
+  justify-content: space-around;
+  background-color: rgb(57, 170, 170);
+  text-align: center;
 }
-
-h1{
-  color:black;
+.my-foto{
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-around;
+  background-color:  rgb(57, 170, 170)ure;
 }
-.title{
-  margin-left: 500px;
+.title{ 
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  background-color:  rgb(57, 170, 170); 
+  font-size: larger; 
 }
 .contact{
- 
+  font-size: 20px;
+  border-style:solid;
+  border-color: rebeccapurple;
+  text-align: center;
+  font-family: sans-serif;
+  display: flex; 
+  align-items: center;
+  justify-content: space-around;
+  background-color:  rgb(169, 206, 206);
+}
+h2{
+  text-align: center;
+  display: flex; 
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(57, 170, 170);
+  transition: .3s;
+}
+.footer-box{
+  font-size: 20px;
+  border-color: rebeccapurple;
+  border-right-style:solid;
+  border-bottom-style:solid ;
+  border-left-style:solid;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;  
+  background-color: rgb(57, 170, 170);
+}
+main{
+  font-size: 20px;
+  border-color: rebeccapurple;
+  border-right-style:solid;
+  border-bottom-style:solid ;
+  border-left-style:solid;
   text-align: center;
 }
-.about-me{
-  font-size: 24px; 
-  text-align: center;
-  background-color:yellow;
-}
-p{
-  color: black;
-}
-.phone-namber{
-  background-color: yellowgreen;
-}
-p{
-  color: black;
-}
-.email{
-  background-color: yellowgreen;
+html {
+  scroll-behavior: smooth;
 }
