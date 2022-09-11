@@ -23,25 +23,9 @@ I haven't programming skills yet.
 ## Code Examples
 
 ```js
-function getMatrix(number) {
-  let i;
-  let j;
-  let rez = [];
-  for (i = 0; i < number; i++) {
-    rez[i] = [];
-    for (j = 0; j < number; j++) {
-      if (i == j) {
-        rez[i][j] = 1;
-      } else {
-        rez[i][j] = 0;
-      }
-    }
-  }
-  console.log(rez);
-  return rez[i[j]];
-  // good luck
+function checkCoupon(enteredCode, correctCode, currentDate, expirationDate){
+  return enteredCode === correctCode && Date.parse(expirationDate) >= Date.parse(currentDate)
 }
-getMatrix(5);
 ```
 --------
 
