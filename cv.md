@@ -37,4 +37,4 @@ faculty of Biology
 ## Languages
 
 Russian - Native
-English level A2 (I try to learn English in every possible way)
+English level A2 (I`m trying to improve my English step by step)
