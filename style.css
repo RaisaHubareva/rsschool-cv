@@ -1,0 +1,21 @@
+ .my-foto{
+ margin-left:40%;
+}
+.title{
+  margin-left: 40%;
+  font-size: 35px;
+}
+.contact{
+  text-align: center;
+}
+.about-me{
+  font-size: 24px; 
+  text-align: center;
+  background-color:yellow;
+}
+.phone-number{
+  background-color: yellowgreen;
+}
+.email{
+  background-color: yellowgreen;
+}
